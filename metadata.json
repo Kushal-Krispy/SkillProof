@@ -1,0 +1,6 @@
+{
+  "name": "SkillProof",
+  "description": "Student skill-evidence and portfolio platform architecture and roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
